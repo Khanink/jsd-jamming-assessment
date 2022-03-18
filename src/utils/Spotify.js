@@ -1,6 +1,6 @@
 // TODO: Get Client ID from https://developer.spotify.com/dashboard/ and put it here
 const clientId = "0de6ccd21ac043b38eeca9e57fb0e82d";
-const redirecUri = "http://localhost:3000/";
+const redirecUri = "https://khaninkjamming.netlify.app";
 
 let accessToken;
 
